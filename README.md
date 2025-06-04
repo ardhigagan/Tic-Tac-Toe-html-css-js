@@ -4,7 +4,7 @@ A simple, interactive Tic-Tac-Toe (X and O) game built using HTML, CSS, and Java
 
 ## 🚀 Live Demo
 
-[Click here to play the game](https://yourusername.github.io/tic-tac-toe-js/)
+[Click here to play the game](https://js-css-html-tictactoe.netlify.app/)
 
 
 ## 🛠️ Technologies Used
